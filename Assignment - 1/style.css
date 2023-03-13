@@ -1,0 +1,43 @@
+h1
+{
+    color: rgb(255, 38, 0);
+}
+h2
+{
+    color: orangered;
+    font-style: italic;
+}
+ul
+{
+    color: brown;
+    font-stretch: expanded;
+}
+p{
+    color: rgb(122, 70, 31);
+}
+ol
+{
+ color: rgb(165, 42, 42);
+
+}
+.data{
+    font-style: italic;
+    text-decoration: underline;
+}
+.head{
+    letter-spacing: 3px;
+    font-size: medium;
+}
+
+.mark{
+    background-color: yellow;
+}
+.strick{
+    text-decoration: line-through;
+}
+
+.final{
+    color: red;
+    background-color: yellow;
+    font-style: italic;
+}
