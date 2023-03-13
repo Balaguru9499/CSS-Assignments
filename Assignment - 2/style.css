@@ -1,8 +1,8 @@
 body{
     margin-bottom: auto;
     border: 20px solid black;
-    border-image: url("/clip-art-color-borders-2.jpg") 30 stretch;
-    background-image: url("/BG.jpeg");
+    border-image: url("./clip-art-color-borders-2.jpg") 30 stretch;
+    background-image: url("./BG.jpeg");
 }
 .head
 {
